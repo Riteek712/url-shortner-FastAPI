@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directory
+venv/
+env/
+.venv/
+.env/
+
+# Dependency directories
+Pipfile.lock
+poetry.lock
+*.egg-info/
+dist/
+build/
+
+
+# Coverage reports
+coverage.xml
+*.cover
+*.py,cover
+
+# Local configuration files
+*.env
+*.local
+
+
